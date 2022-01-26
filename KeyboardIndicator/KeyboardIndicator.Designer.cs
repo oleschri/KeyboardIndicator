@@ -616,7 +616,7 @@
             this.MaximizeBox = false;
             this.Name = "KeyboardIndicator";
             this.ShowInTaskbar = false;
-            this.Text = "Keyboard Indicator";
+            this.Text = "Keyboard Indicator +";
             this.WindowState = System.Windows.Forms.FormWindowState.Minimized;
             this.contextMenuStrip.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.numAnimationSpeed)).EndInit();
